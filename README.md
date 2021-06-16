@@ -9,9 +9,7 @@
 * Pour connaître la liste des commandes, vous pouvez utiliser la commande `!help`.<br>
 
 ### Jeux
-* <br>
-* <br>
-
+* Le serveur est actuellement en développement.<br>
 
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 
