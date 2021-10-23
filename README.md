@@ -9,7 +9,7 @@ Lors de vos achats sur notre boutique, nous reversons 50% des gains à l'associa
 
 ## Liens
 
-*   [Discord](https://discord.gg/9hMb6NadBn)
+*   [Discord](https://askna.fr/github)
 *   [Github](https://github.com/Asknamc)
 <br>
 
