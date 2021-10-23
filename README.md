@@ -10,7 +10,7 @@ Lors de vos achats sur notre boutique, nous reversons 50% des gains à l'associa
 ## Liens
 
 *   [Discord](https://discord.gg/9hMb6NadBn)
-*   [Github](https://github.com/Pluzdev/askna/)
+*   [Github](https://github.com/Asknamc)
 <br>
 
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
